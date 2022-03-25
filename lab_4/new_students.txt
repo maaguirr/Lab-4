@@ -1,0 +1,2 @@
+student id = 232 student name = k student lastname = s gpa: 3.00
+student id = 244 student name = x student lastname = z gpa: 2.20
